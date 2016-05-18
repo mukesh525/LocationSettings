@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyLocation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str_rb_driving">Driving</string>
+    <string name="str_rb_bicycling">BiCycling</string>
+    <string name="str_rb_walking">Walking</string>
+</resources>
